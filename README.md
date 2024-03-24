@@ -16,7 +16,7 @@ Esta é uma calculadora básica que oferece funcionalidades simples de adição,
 ## Como usar
 
 1. Certifique-se de ter o Python instalado em seu sistema.
-2. Execute o arquivo `calculator.py`.
+2. Execute o arquivo `calculadora_gui.py`.
 3. A calculadora será aberta em uma janela.
 4. Utilize os botões numéricos e de operação para inserir os valores e realizar cálculos.
 5. Pressione o botão "C" para limpar o visor e começar uma nova operação.
